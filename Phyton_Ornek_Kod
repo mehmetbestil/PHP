@@ -1,0 +1,14 @@
+# Kümeler
+
+# Öğeler süslü parantez içerisinde yer alır, virgül ile ayrılır
+# Sırasızdır
+# Index değeri yoktur
+# Kümede her eleman benzersizdir. Örneğin 2 tane a harfi bulunmaz
+# Küme elemanlarına pozisyonları ile ulaşılmaz
+
+#Örnek:
+kume = set('deeeeneeeemmeeeeeee')
+print(kume)
+
+# Çıktı:
+{'d', 'n', 'e', 'm'}
